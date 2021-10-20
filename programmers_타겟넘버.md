@@ -2,7 +2,7 @@
 
 #### 타겟넘버
 
-* 코드
+* 코드 
 
 ```java
 class Solution {
