@@ -41,3 +41,4 @@ class Solution {
 반복문을 돌면서 최대값을 구하고, 해당 값으로 다시 비교하였다. 
 
 Stream filter를 사용해 int[] 를 반환하였다.
+
